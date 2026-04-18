@@ -1,21 +1,16 @@
-# Contributing to Awesome Web Development Resources
+# 🤝 Joining the Wizard's Circle
 
-First off, thank you for taking the time to contribute! It's people like you that make the web dev community so helpful.
+Greetings, fellow sorcerer! Thank you for choosing to contribute your knowledge to the **Web Wizards' Grimoire**. Every new spell added helps strengthen the collective power of all web developers.
 
-## What can I contribute?
-- **New Resources**: Links to free tools, libraries, or learning materials.
-- **Improvements**: Fixing broken links, updating descriptions, or improving the README structure.
+## 📜 Code of Conduct for Scribes
+- **Only Quality Artifacts**: Ensure the resource is truly free and actually useful.
+- **Check for Echoes**: Use `Ctrl+F` to search if the spell has already been scribed into the Grimoire.
+- **Proper Alignment**: Place your contribution in the most fitting "Table of Spells" category.
 
-## Guidelines
-- **Quality over Quantity**: Only add resources that are actually useful and have a decent free tier.
-- **Check for Duplicates**: Use `Ctrl+F` to search the README for the tool before adding it.
-- **Categorization**: Place your resource in the most appropriate section.
-- **Format**: Follow the existing format: `[Name](Link) - Short description.`
+## 🌙 How to Scribe
+1. **Fork the Grimoire**: Create a personal copy of the spellbook.
+2. **Channel a Branch**: `git checkout -b new-spell-name`.
+3. **Commit your Incantation**: `git commit -m 'Added [Spell Name]'`.
+4. **Invoke a Pull Request**: Submit your changes for review by the Council.
 
-## Steps to contribute
-1. Fork the repo.
-2. Create a new branch.
-3. Add your changes.
-4. Submit a Pull Request.
-
-Thank you!
+Thank you for being part of the magical community!
