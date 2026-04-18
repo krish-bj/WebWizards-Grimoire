@@ -7,13 +7,36 @@ Welcome to the **Grimoire**. Within these digital pages, you will find a curated
 ---
 
 ## 📜 Table of Spells
+- [👤 GitHub Profile Sorcery (Animations, Stats, Graphs)](#-github-profile-sorcery-animations-stats-graphs)
 - [🎨 Visual Alchemy (UI/UX & Design)](#-visual-alchemy-uiux--design)
 - [✨ Front-End Incantations (Libraries & Frameworks)](#-front-end-incantations-libraries--frameworks)
 - [⚙️ Back-End Sorcery (APIs & Databases)](#-back-end-sorcery-apis--databases)
 - [🚀 Ethereal Hosting (Deployment)](#-ethereal-hosting-deployment)
-- [📚 Ancient Scrolls (Learning & Tutorials)](#-ancient-scrolls-learning--tutorials)
-- [🔧 The Wizard's Belt (Tools)](#-the-wizards-belt-tools)
+- [🏰 The Chamber of Knowledge (Personal Learning & Hidden Gems)](#-the-chamber-of-knowledge-personal-learning--hidden-gems)
+- [📚 Ancient Scrolls (General Tutorials)](#-ancient-scrolls-general-tutorials)
 - [🤝 Join the Circle (Contributing)](#-join-the-circle-contributing)
+
+---
+
+## 👤 GitHub Profile Sorcery (Animations, Stats, Graphs)
+
+Transform your profile into a living magical artifact.
+
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your GitHub readmes.
+- [Metrics by Lowlighter](https://github.com/lowlighter/metrics) - 🧙‍♂️ **Level 100 Spell**: Generate 30+ detailed metrics and animations for your profile.
+- [Snake Animation](https://github.com/Platane/snk) - Turn your contribution graph into a classic snake game animation.
+- [WakaTime Readme](https://github.com/athul/waka-readme) - Show your weekly coding hours and languages live.
+- [Capsule Render](https://github.com/kyechan92/capsule-render) - Dynamic headers for your profile that change with the time or theme.
+
+---
+
+## 🏰 The Chamber of Knowledge (Personal Learning & Hidden Gems)
+
+This section contains deep-dives and specific techniques discovered during the wizard's journey.
+
+### 💎 Hidden Gems I've Found:
+- **GitHub Profile Customization**: Beyond just a README, you can use GitHub Actions to automate and animate your profile history. 
+- [Official List of Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A massive collection of inspiration.
 
 ---
 
@@ -32,7 +55,6 @@ Welcome to the **Grimoire**. Within these digital pages, you will find a curated
 ## ✨ Front-End Incantations (Libraries & Frameworks)
 
 - [Next.js](https://nextjs.org/) - The ultimate catalyst for React applications.
-- [Astro](https://astro.build/) - Summon speed and performance with ease.
 - [shadcn/ui](https://ui.shadcn.com/) - Perfectly crafted components for your interface.
 - [Aceternity UI](https://ui.aceternity.com/) - High-level animations that feel like real magic.
 
@@ -41,7 +63,6 @@ Welcome to the **Grimoire**. Within these digital pages, you will find a curated
 ## ⚙️ Back-End Sorcery (APIs & Databases)
 
 - [Supabase](https://supabase.com/) - The open-source fountain of backend power.
-- [MongoDB Atlas](https://www.mongodb.com/atlas/database) - A vast cloud-based memory bank.
 - [Clerk](https://clerk.com/) - Divine protection and user authentication.
 
 ---
@@ -50,23 +71,13 @@ Welcome to the **Grimoire**. Within these digital pages, you will find a curated
 
 - [Vercel](https://vercel.com/) - Instant manifestation of your frontend spells.
 - [Netlify](https://www.netlify.com/) - Seamlessly host your static architectures.
-- [Railway](https://railway.app/) - Infrastructure that scales as your power grows.
 
 ---
 
-## 📚 Ancient Scrolls (Learning & Tutorials)
+## 📚 Ancient Scrolls (General Tutorials)
 
 - [MDN Web Docs](https://developer.mozilla.org/) - The source of all web knowledge.
 - [FreeCodeCamp](https://www.freecodecamp.org/) - A temple for aspiring sorcerers.
-- [JavaScript.info](https://javascript.info/) - Mastering the core elements of the web.
-
----
-
-## 🔧 The Wizard's Belt (Tools)
-
-- [Can I Use](https://caniuse.com/) - Predicting spell compatibility across the browsers.
-- [TinyPNG](https://tinypng.com/) - Compressing heavy images with zero loss of quality.
-- [Vite](https://vitejs.dev/) - The fastest way to spark a new project.
 
 ---
 
