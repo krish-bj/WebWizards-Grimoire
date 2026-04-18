@@ -92,4 +92,4 @@ Have you discovered a new magical artifact? We welcome all wizards to contribute
 ---
 
 *Harness the web, weave the code.*
-Made with ✨ by [Your Name]
+Made with ✨ by Balaji Yadav
