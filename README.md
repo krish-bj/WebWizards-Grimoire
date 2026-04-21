@@ -10,6 +10,7 @@ Welcome to the **Grimoire**. Within these digital pages, you will find a curated
 - [👤 GitHub Profile Sorcery (Animations, Stats, Graphs)](#-github-profile-sorcery-animations-stats-graphs)
 - [🎨 Visual Alchemy (Icons, UI/UX & Design)](#-visual-alchemy-icons-uiux--design)
 - [✨ Front-End Incantations (Libraries & Frameworks)](#-front-end-incantations-libraries--frameworks)
+- [⚡ Manifestation Chambers (Landing Pages & AI Builders)](#-manifestation-chambers-landing-pages--ai-builders)
 - [⚙️ Back-End Sorcery (APIs & Databases)](#-back-end-sorcery-apis--databases)
 - [🚀 Ethereal Hosting (Deployment)](#-ethereal-hosting-deployment)
 - [🏰 The Chamber of Knowledge (Personal Learning & Hidden Gems)](#-the-chamber-of-knowledge-personal-learning--hidden-gems)
@@ -65,27 +66,25 @@ Transform your profile into a living magical artifact.
 
 ---
 
-## ⚙️ Back-End Sorcery (APIs & Databases)
+## ⚡ Manifestation Chambers (Landing Pages & AI Builders)
 
-- [Supabase](https://supabase.com/) - The open-source fountain of backend power.
-- [MongoDB Atlas](https://www.mongodb.com/atlas/database) - A vast cloud-based memory bank.
-- [Clerk](https://clerk.com/) - Divine protection and user authentication.
+*Speed up your creation process with curated landing page components and AI-powered architects.*
 
----
+### 🛠️ Landing Page Blueprints
+- [Landingfolio](https://www.landingfolio.com/components) - 4,600+ landing-page UIs and sections (Tailwind, Figma, Webflow).
+- [SaaSFrame](https://saasframe.io) - SaaS-specific UIs and components (pricing, dashboards, landing sections).
+- [Curated.design](https://curated.design) - Curated feed of sites plus pro sections you can copy-paste.
+- [AuraUI](https://auraui.com) - React-centric, animated components (mostly Tailwind) for SaaS and marketing sites.
 
-## 🚀 Ethereal Hosting (Deployment)
+### 🔮 AI-Driven Architects
+- [Aura.build](https://www.aura.build) - AI website builder that generates landing pages and components from prompts.
+- [Superdesign](https://superdesign.dev) - AI-powered design agent that generates UI mockups and exports to code-ready layouts.
+- [Reweb](https://reweb.so) - AI tools that generate UIs and components from prompts.
 
-- [Vercel](https://vercel.com/) - Instant manifestation of your frontend spells.
-- [Netlify](https://www.netlify.com/) - Seamlessly host your static architectures.
+### 🌟 Inspiration Galleries
+- [Dribbble - Component Showcase](https://dribbble.com/search/component%20showcase) - Massive gallery of UI components for inspiration.
+- [Awesome UI Components (DEV)](https://dev.to/surajondev/awesome-websites-for-ui-components-2c5g) - Curated list of component sites and libraries.
 
----
-
-## 📚 Ancient Scrolls (General Tutorials)
-
-- [MDN Web Docs](https://developer.mozilla.org/) - The source of all web knowledge.
-- [FreeCodeCamp](https://www.freecodecamp.org/) - A temple for aspiring sorcerers.
-
----
 
 ## 🤝 Join the Circle (Contributing)
 
